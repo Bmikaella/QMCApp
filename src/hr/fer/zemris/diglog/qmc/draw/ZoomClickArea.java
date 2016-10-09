@@ -1,4 +1,4 @@
-package hr.fer.zemris.diglog.qmc;
+package hr.fer.zemris.diglog.qmc.draw;
 
 import hr.fer.zemris.diglog.qmc.element.Area;
 import hr.fer.zemris.diglog.qmc.observer.AreaImplicantObserver;

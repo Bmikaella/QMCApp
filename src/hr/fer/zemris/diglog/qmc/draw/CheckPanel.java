@@ -1,5 +1,6 @@
-package hr.fer.zemris.diglog.qmc;
+package hr.fer.zemris.diglog.qmc.draw;
 
+import hr.fer.zemris.diglog.qmc.QMCApp;
 import hr.fer.zemris.diglog.qmc.watcher.StringWatcher;
 
 import javax.swing.*;

@@ -1,8 +1,11 @@
 package hr.fer.zemris.diglog.qmc;
 
+import hr.fer.zemris.diglog.qmc.draw.CheckPanel;
+import hr.fer.zemris.diglog.qmc.draw.ZoomClickArea;
 import hr.fer.zemris.diglog.qmc.element.*;
 import hr.fer.zemris.diglog.qmc.observer.AreaImplicantObserver;
 import hr.fer.zemris.diglog.qmc.observer.RectangleImplicantAreaObserver;
+import hr.fer.zemris.diglog.qmc.util.*;
 import icontract.Preconditions;
 
 import javax.swing.*;

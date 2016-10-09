@@ -1,4 +1,4 @@
-package hr.fer.zemris.diglog.qmc;
+package hr.fer.zemris.diglog.qmc.util;
 
 import java.util.List;
 
